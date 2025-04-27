@@ -1,0 +1,6 @@
+# Add your Python dependencies here
+scikit-learn
+pandas
+numpy
+matplotlib
+ydata_profiling==4.16.1
